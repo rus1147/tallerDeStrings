@@ -79,7 +79,7 @@ vector<string> split(string s, char delimitador){
 
 
 string darVueltaPalabra(string s){
-    cout << "Implementame" << endl;
+    
     return "";
 }
 
